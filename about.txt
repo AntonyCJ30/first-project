@@ -1,3 +1,5 @@
 
  about.txt is updated in master branch
  This is my first project
+
+The line is newly added 
